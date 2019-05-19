@@ -1,5 +1,5 @@
 # Supplier_IT17161466
-Project Title
+Project - Supplier Management
 
 This project is about an ecommerce system that includes the features supplier login and adding the items to the database.
 
